@@ -1,0 +1,7629 @@
+
+[
+{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "All Weather"
+},{
+    "Dex": "824",
+    "Name": "Blipbug",
+    "Weather": "All Weather"
+},{
+    "Dex": "010",
+    "Name": "Caterpie",
+    "Weather": "All Weather"
+},{
+    "Dex": "736",
+    "Name": "Grubbin",
+    "Weather": "All Weather"
+},{
+    "Dex": "163",
+    "Name": "Hoothoot",
+    "Weather": "All Weather"
+},{
+    "Dex": "824",
+    "Name": "Blipbug",
+    "Weather": "All Weather"
+},{
+    "Dex": "821",
+    "Name": "Rookidee",
+    "Weather": "All Weather"
+},{
+    "Dex": "270",
+    "Name": "Lotad",
+    "Weather": "All Weather"
+},{
+    "Dex": "509",
+    "Name": "Purrloin",
+    "Weather": "All Weather"
+},{
+    "Dex": "163",
+    "Name": "Hoothoot",
+    "Weather": "All Weather"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Fishing"
+},{
+    "Dex": "846",
+    "Name": "Arrokuda",
+    "Weather": "Fishing"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "761",
+    "Name": "Bounsweet",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "043",
+    "Name": "Oddish",
+    "Weather": "Overcast"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Overcast"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Overcast"
+},{
+    "Dex": "011",
+    "Name": "Metapod",
+    "Weather": "Overcast"
+},{
+    "Dex": "270",
+    "Name": "Lotad",
+    "Weather": "Raining"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Raining"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Raining"
+},{
+    "Dex": "011",
+    "Name": "Metapod",
+    "Weather": "Raining"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "309",
+    "Name": "Electrike",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "011",
+    "Name": "Metapod",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "749",
+    "Name": "Mudbray",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "058",
+    "Name": "Growlithe",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowing"
+},{
+    "Dex": "220",
+    "Name": "Swinub",
+    "Weather": "Snowing"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Snowing"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Snowing"
+},{
+    "Dex": "220",
+    "Name": "Swinub",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "557",
+    "Name": "Dwebble",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "622",
+    "Name": "Golett",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "517",
+    "Name": "Munna",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "177",
+    "Name": "Natu",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "011",
+    "Name": "Metapod",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "270",
+    "Name": "Lotad",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "761",
+    "Name": "Bounsweet",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Overcast"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Overcast"
+},{
+    "Dex": "270",
+    "Name": "Lotad",
+    "Weather": "Overcast"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Overcast"
+},{
+    "Dex": "535",
+    "Name": "Tympole",
+    "Weather": "Raining"
+},{
+    "Dex": "736",
+    "Name": "Grubbin",
+    "Weather": "Raining"
+},{
+    "Dex": "270",
+    "Name": "Lotad",
+    "Weather": "Raining"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Raining"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "736",
+    "Name": "Grubbin",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "270",
+    "Name": "Lotad",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "058",
+    "Name": "Growlithe",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "749",
+    "Name": "Mudbray",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowing"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowing"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowing"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Snowing"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "622",
+    "Name": "Golett",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "761",
+    "Name": "Bounsweet",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "280",
+    "Name": "Ralts",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "270",
+    "Name": "Lotad",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "509",
+    "Name": "Purrloin",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "622",
+    "Name": "Golett",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "425",
+    "Name": "Drifloon",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "761",
+    "Name": "Bounsweet",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "519",
+    "Name": "Pidove",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Overcast"
+},{
+    "Dex": "092",
+    "Name": "Gastly",
+    "Weather": "Overcast"
+},{
+    "Dex": "761",
+    "Name": "Bounsweet",
+    "Weather": "Overcast"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Overcast"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Raining"
+},{
+    "Dex": "535",
+    "Name": "Tympole",
+    "Weather": "Raining"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Raining"
+},{
+    "Dex": "519",
+    "Name": "Pidove",
+    "Weather": "Raining"
+},{
+    "Dex": "309",
+    "Name": "Electrike",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "736",
+    "Name": "Grubbin",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "519",
+    "Name": "Pidove",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "622",
+    "Name": "Golett",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "058",
+    "Name": "Growlithe",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "425",
+    "Name": "Drifloon",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowing"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Snowing"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowing"
+},{
+    "Dex": "425",
+    "Name": "Drifloon",
+    "Weather": "Snowing"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "425",
+    "Name": "Drifloon",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "622",
+    "Name": "Golett",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "557",
+    "Name": "Dwebble",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "519",
+    "Name": "Pidove",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "509",
+    "Name": "Purrloin",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "519",
+    "Name": "Pidove",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "043",
+    "Name": "Oddish",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "519",
+    "Name": "Pidove",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Overcast"
+},{
+    "Dex": "043",
+    "Name": "Oddish",
+    "Weather": "Overcast"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Overcast"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Overcast"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Raining"
+},{
+    "Dex": "736",
+    "Name": "Grubbin",
+    "Weather": "Raining"
+},{
+    "Dex": "043",
+    "Name": "Oddish",
+    "Weather": "Raining"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Raining"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "309",
+    "Name": "Electrike",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "043",
+    "Name": "Oddish",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "749",
+    "Name": "Mudbray",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "058",
+    "Name": "Growlithe",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "095",
+    "Name": "Onix",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowing"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowing"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Snowing"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Snowing"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "557",
+    "Name": "Dwebble",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "095",
+    "Name": "Onix",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "509",
+    "Name": "Purrloin",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "517",
+    "Name": "Munna",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "118",
+    "Name": "Goldeen",
+    "Weather": "Fishing"
+},{
+    "Dex": "090",
+    "Name": "Shellder",
+    "Weather": "Fishing"
+},{
+    "Dex": "746",
+    "Name": "Wishiwashi",
+    "Weather": "Fishing"
+},{
+    "Dex": "194",
+    "Name": "Wooper",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "098",
+    "Name": "Krabby",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "761",
+    "Name": "Bounsweet",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "098",
+    "Name": "Krabby",
+    "Weather": "Overcast"
+},{
+    "Dex": "194",
+    "Name": "Wooper",
+    "Weather": "Overcast"
+},{
+    "Dex": "674",
+    "Name": "Pancham",
+    "Weather": "Overcast"
+},{
+    "Dex": "236",
+    "Name": "Tyrogue",
+    "Weather": "Overcast"
+},{
+    "Dex": "194",
+    "Name": "Wooper",
+    "Weather": "Raining"
+},{
+    "Dex": "535",
+    "Name": "Tympole",
+    "Weather": "Raining"
+},{
+    "Dex": "098",
+    "Name": "Krabby",
+    "Weather": "Raining"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Raining"
+},{
+    "Dex": "309",
+    "Name": "Electrike",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "535",
+    "Name": "Tympole",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "098",
+    "Name": "Krabby",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "058",
+    "Name": "Growlithe",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "674",
+    "Name": "Pancham",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowing"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowing"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Snowing"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowing"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "194",
+    "Name": "Wooper",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "290",
+    "Name": "Nincada",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "749",
+    "Name": "Mudbray",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "177",
+    "Name": "Natu",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "098",
+    "Name": "Krabby",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "280",
+    "Name": "Ralts",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "118",
+    "Name": "Goldeen",
+    "Weather": "Fishing"
+},{
+    "Dex": "223",
+    "Name": "Remoraid",
+    "Weather": "Fishing"
+},{
+    "Dex": "746",
+    "Name": "Wishiwashi",
+    "Weather": "Fishing"
+},{
+    "Dex": "521",
+    "Name": "Unfezant",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "762",
+    "Name": "Steenee",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "315",
+    "Name": "Roselia",
+    "Weather": "Overcast"
+},{
+    "Dex": "044",
+    "Name": "Gloom",
+    "Weather": "Overcast"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Overcast"
+},{
+    "Dex": "521",
+    "Name": "Unfezant",
+    "Weather": "Overcast"
+},{
+    "Dex": "279",
+    "Name": "Pelipper",
+    "Weather": "Raining"
+},{
+    "Dex": "737",
+    "Name": "Charjabug",
+    "Weather": "Raining"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Raining"
+},{
+    "Dex": "521",
+    "Name": "Unfezant",
+    "Weather": "Raining"
+},{
+    "Dex": "342",
+    "Name": "Crawdaunt",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "310",
+    "Name": "Manectric",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "521",
+    "Name": "Unfezant",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "058",
+    "Name": "Growlithe",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "521",
+    "Name": "Unfezant",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "750",
+    "Name": "Mudsdale",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowing"
+},{
+    "Dex": "583",
+    "Name": "Vanillish",
+    "Weather": "Snowing"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Snowing"
+},{
+    "Dex": "521",
+    "Name": "Unfezant",
+    "Weather": "Snowing"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "558",
+    "Name": "Crustle",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "750",
+    "Name": "Mudsdale",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "517",
+    "Name": "Munna",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "521",
+    "Name": "Unfezant",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "224",
+    "Name": "Octillery",
+    "Weather": "Fishing"
+},{
+    "Dex": "746",
+    "Name": "Wishiwashi",
+    "Weather": "Fishing"
+},{
+    "Dex": "130",
+    "Name": "Gyarados",
+    "Weather": "Fishing"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "535",
+    "Name": "Tympole",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Overcast"
+},{
+    "Dex": "315",
+    "Name": "Roselia",
+    "Weather": "Overcast"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Overcast"
+},{
+    "Dex": "236",
+    "Name": "Tyrogue",
+    "Weather": "Overcast"
+},{
+    "Dex": "535",
+    "Name": "Tympole",
+    "Weather": "Raining"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Raining"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Raining"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Raining"
+},{
+    "Dex": "309",
+    "Name": "Electrike",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "058",
+    "Name": "Growlithe",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "315",
+    "Name": "Roselia",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "290",
+    "Name": "Nincada",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowing"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowing"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Snowing"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Snowing"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "290",
+    "Name": "Nincada",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "194",
+    "Name": "Wooper",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "535",
+    "Name": "Tympole",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "177",
+    "Name": "Natu",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "280",
+    "Name": "Ralts",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "223",
+    "Name": "Remoraid",
+    "Weather": "Fishing"
+},{
+    "Dex": "339",
+    "Name": "Barboach",
+    "Weather": "Fishing"
+},{
+    "Dex": "771",
+    "Name": "Pyukumuku",
+    "Weather": "Fishing"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "095",
+    "Name": "Onix",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "520",
+    "Name": "Tranquill",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "067",
+    "Name": "Machoke",
+    "Weather": "Overcast"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Overcast"
+},{
+    "Dex": "095",
+    "Name": "Onix",
+    "Weather": "Overcast"
+},{
+    "Dex": "093",
+    "Name": "Haunter",
+    "Weather": "Overcast"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Overcast"
+},{
+    "Dex": "195",
+    "Name": "Quagsire",
+    "Weather": "Raining"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Raining"
+},{
+    "Dex": "271",
+    "Name": "Lombre",
+    "Weather": "Raining"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Raining"
+},{
+    "Dex": "310",
+    "Name": "Manectric",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "342",
+    "Name": "Crawdaunt",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "557",
+    "Name": "Dwebble",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "095",
+    "Name": "Onix",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "750",
+    "Name": "Mudsdale",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowing"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Snowing"
+},{
+    "Dex": "220",
+    "Name": "Swinub",
+    "Weather": "Snowing"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Snowing"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "220",
+    "Name": "Swinub",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "750",
+    "Name": "Mudsdale",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "095",
+    "Name": "Onix",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "557",
+    "Name": "Dwebble",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "178",
+    "Name": "Xatu",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "090",
+    "Name": "Shellder",
+    "Weather": "Fishing"
+},{
+    "Dex": "771",
+    "Name": "Pyukumuku",
+    "Weather": "Fishing"
+},{
+    "Dex": "130",
+    "Name": "Gyarados",
+    "Weather": "Fishing"
+},{
+    "Dex": "091",
+    "Name": "Cloyster",
+    "Weather": "Fishing"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "519",
+    "Name": "Pidove",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Overcast"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Overcast"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Overcast"
+},{
+    "Dex": "092",
+    "Name": "Gastly",
+    "Weather": "Overcast"
+},{
+    "Dex": "535",
+    "Name": "Tympole",
+    "Weather": "Raining"
+},{
+    "Dex": "736",
+    "Name": "Grubbin",
+    "Weather": "Raining"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Raining"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Raining"
+},{
+    "Dex": "736",
+    "Name": "Grubbin",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "749",
+    "Name": "Mudbray",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowing"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowing"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Snowing"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Snowing"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "557",
+    "Name": "Dwebble",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "749",
+    "Name": "Mudbray",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "177",
+    "Name": "Natu",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "280",
+    "Name": "Ralts",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "339",
+    "Name": "Barboach",
+    "Weather": "Fishing"
+},{
+    "Dex": "550",
+    "Name": "Basculin",
+    "Weather": "Fishing"
+},{
+    "Dex": "821",
+    "Name": "Rookidee",
+    "Weather": "All Weather"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "All Weather"
+},{
+    "Dex": "674",
+    "Name": "Pancham",
+    "Weather": "All Weather"
+},{
+    "Dex": "749",
+    "Name": "Mudbray",
+    "Weather": "All Weather"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "All Weather"
+},{
+    "Dex": "850",
+    "Name": "Sizzlipede",
+    "Weather": "All Weather"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "164",
+    "Name": "Noctowl",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "832",
+    "Name": "Dubwool",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "451",
+    "Name": "Skorupi",
+    "Weather": "Overcast"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Overcast"
+},{
+    "Dex": "164",
+    "Name": "Noctowl",
+    "Weather": "Overcast"
+},{
+    "Dex": "832",
+    "Name": "Dubwool",
+    "Weather": "Overcast"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Overcast"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Raining"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Raining"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Raining"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Raining"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Raining"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "836",
+    "Name": "Boltund",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "111",
+    "Name": "Rhyhorn",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "607",
+    "Name": "Litwick",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "164",
+    "Name": "Noctowl",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "215",
+    "Name": "Sneasel",
+    "Weather": "Snowing"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowing"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Snowing"
+},{
+    "Dex": "164",
+    "Name": "Noctowl",
+    "Weather": "Snowing"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Snowing"
+},{
+    "Dex": "624",
+    "Name": "Pawniard",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "215",
+    "Name": "Sneasel",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "111",
+    "Name": "Rhyhorn",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "095",
+    "Name": "Onix",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "164",
+    "Name": "Noctowl",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "677",
+    "Name": "Espurr",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "605",
+    "Name": "Elgyem",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "164",
+    "Name": "Noctowl",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "846",
+    "Name": "Arrokuda",
+    "Weather": "Fishing"
+},{
+    "Dex": "550",
+    "Name": "Basculin",
+    "Weather": "Fishing"
+},{
+    "Dex": "847",
+    "Name": "Barraskewda",
+    "Weather": "Fishing"
+},{
+    "Dex": "747",
+    "Name": "Mareanie",
+    "Weather": "Fishing"
+},{
+    "Dex": "828",
+    "Name": "Thievul",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "202",
+    "Name": "Wobbuffet",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "175",
+    "Name": "Togepi",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Overcast"
+},{
+    "Dex": "828",
+    "Name": "Thievul",
+    "Weather": "Overcast"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Overcast"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Overcast"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Overcast"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Overcast"
+},{
+    "Dex": "175",
+    "Name": "Togepi",
+    "Weather": "Overcast"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Raining"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Raining"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Raining"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Raining"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Raining"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Raining"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "607",
+    "Name": "Litwick",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "828",
+    "Name": "Thievul",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "838",
+    "Name": "Carkol",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "215",
+    "Name": "Sneasel",
+    "Weather": "Snowing"
+},{
+    "Dex": "828",
+    "Name": "Thievul",
+    "Weather": "Snowing"
+},{
+    "Dex": "613",
+    "Name": "Cubchoo",
+    "Weather": "Snowing"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Snowing"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Snowing"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Snowing"
+},{
+    "Dex": "215",
+    "Name": "Sneasel",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "613",
+    "Name": "Cubchoo",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "111",
+    "Name": "Rhyhorn",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "629",
+    "Name": "Vullaby",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "185",
+    "Name": "Sudowoodo",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "868",
+    "Name": "Milcery",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "607",
+    "Name": "Litwick",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "605",
+    "Name": "Elgyem",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "828",
+    "Name": "Thievul",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "175",
+    "Name": "Togepi",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "834",
+    "Name": "Drednaw",
+    "Weather": "Fishing"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "171",
+    "Name": "Lanturn",
+    "Weather": "Fishing"
+},{
+    "Dex": "211",
+    "Name": "Qwilfish",
+    "Weather": "Fishing"
+},{
+    "Dex": "130",
+    "Name": "Gyarados",
+    "Weather": "Fishing"
+},{
+    "Dex": "052",
+    "Name": "Meowth",
+    "Weather": "All Weather"
+},{
+    "Dex": "831",
+    "Name": "Wooloo",
+    "Weather": "All Weather"
+},{
+    "Dex": "868",
+    "Name": "Milcery",
+    "Weather": "All Weather"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "All Weather"
+},{
+    "Dex": "742",
+    "Name": "Cutiefly",
+    "Weather": "All Weather"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "All Weather"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "All Weather"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Fishing"
+},{
+    "Dex": "118",
+    "Name": "Goldeen",
+    "Weather": "Fishing"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "All Weather"
+},{
+    "Dex": "821",
+    "Name": "Rookidee",
+    "Weather": "All Weather"
+},{
+    "Dex": "163",
+    "Name": "Hoothoot",
+    "Weather": "All Weather"
+},{
+    "Dex": "824",
+    "Name": "Blipbug",
+    "Weather": "All Weather"
+},{
+    "Dex": "736",
+    "Name": "Grubbin",
+    "Weather": "All Weather"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Fishing"
+},{
+    "Dex": "339",
+    "Name": "Barboach",
+    "Weather": "Fishing"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "All Weather"
+},{
+    "Dex": "677",
+    "Name": "Espurr",
+    "Weather": "All Weather"
+},{
+    "Dex": "271",
+    "Name": "Lombre",
+    "Weather": "All Weather"
+},{
+    "Dex": "682",
+    "Name": "Spritzee",
+    "Weather": "All Weather"
+},{
+    "Dex": "840",
+    "Name": "Applin",
+    "Weather": "All Weather"
+},{
+    "Dex": "751",
+    "Name": "Dewpider",
+    "Weather": "All Weather"
+},{
+    "Dex": "290",
+    "Name": "Nincada",
+    "Weather": "All Weather"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Fishing"
+},{
+    "Dex": "118",
+    "Name": "Goldeen",
+    "Weather": "Fishing"
+},{
+    "Dex": "846",
+    "Name": "Arrokuda",
+    "Weather": "Fishing"
+},{
+    "Dex": "170",
+    "Name": "Chinchou",
+    "Weather": "Fishing"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Fishing"
+},{
+    "Dex": "550",
+    "Name": "Basculin",
+    "Weather": "Fishing"
+},{
+    "Dex": "746",
+    "Name": "Wishiwashi",
+    "Weather": "Fishing"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Overcast"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Overcast"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Overcast"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Overcast"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Overcast"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Overcast"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Overcast"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Overcast"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Raining"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Raining"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Raining"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Raining"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Raining"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Raining"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Raining"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Raining"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Snowing"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Snowing"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Snowing"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Snowing"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Snowing"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Snowing"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Snowing"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Snowing"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "339",
+    "Name": "Barboach",
+    "Weather": "Fishing"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Fishing"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Fishing"
+},{
+    "Dex": "837",
+    "Name": "Rolycoly",
+    "Weather": "All Weather"
+},{
+    "Dex": "524",
+    "Name": "Roggenrola",
+    "Weather": "All Weather"
+},{
+    "Dex": "050",
+    "Name": "Diglett",
+    "Weather": "All Weather"
+},{
+    "Dex": "529",
+    "Name": "Drilbur",
+    "Weather": "All Weather"
+},{
+    "Dex": "527",
+    "Name": "Woobat",
+    "Weather": "All Weather"
+},{
+    "Dex": "532",
+    "Name": "Timburr",
+    "Weather": "All Weather"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "All Weather"
+},{
+    "Dex": "524",
+    "Name": "Roggenrola",
+    "Weather": "All Weather"
+},{
+    "Dex": "624",
+    "Name": "Pawniard",
+    "Weather": "All Weather"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "All Weather"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "All Weather"
+},{
+    "Dex": "860",
+    "Name": "Morgrem",
+    "Weather": "All Weather"
+},{
+    "Dex": "756",
+    "Name": "Shiinotic",
+    "Weather": "All Weather"
+},{
+    "Dex": "077",
+    "Name": "Ponyta",
+    "Weather": "All Weather"
+},{
+    "Dex": "857",
+    "Name": "Hattrem",
+    "Weather": "All Weather"
+},{
+    "Dex": "708",
+    "Name": "Phantump",
+    "Weather": "All Weather"
+},{
+    "Dex": "682",
+    "Name": "Spritzee",
+    "Weather": "All Weather"
+},{
+    "Dex": "854",
+    "Name": "Sinistea",
+    "Weather": "All Weather"
+},{
+    "Dex": "765",
+    "Name": "Oranguru",
+    "Weather": "All Weather"
+},{
+    "Dex": "876",
+    "Name": "Indeedee",
+    "Weather": "All Weather"
+},{
+    "Dex": "854",
+    "Name": "Sinistea",
+    "Weather": "All Weather"
+},{
+    "Dex": "843",
+    "Name": "Silicobra",
+    "Weather": "All Weather"
+},{
+    "Dex": "631",
+    "Name": "Heatmor",
+    "Weather": "All Weather"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "All Weather"
+},{
+    "Dex": "451",
+    "Name": "Skorupi",
+    "Weather": "All Weather"
+},{
+    "Dex": "449",
+    "Name": "Hippopotas",
+    "Weather": "All Weather"
+},{
+    "Dex": "632",
+    "Name": "Durant",
+    "Weather": "All Weather"
+},{
+    "Dex": "324",
+    "Name": "Torkoal",
+    "Weather": "All Weather"
+},{
+    "Dex": "701",
+    "Name": "Hawlucha",
+    "Weather": "All Weather"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "834",
+    "Name": "Drednaw",
+    "Weather": "Fishing"
+},{
+    "Dex": "118",
+    "Name": "Goldeen",
+    "Weather": "Fishing"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Overcast"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Overcast"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Overcast"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Overcast"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Overcast"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Overcast"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Overcast"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Raining"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Raining"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Raining"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Raining"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Raining"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Raining"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Raining"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Snowing"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Snowing"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Snowing"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Snowing"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Snowing"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Snowing"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Snowing"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "844",
+    "Name": "Sandaconda",
+    "Weather": "All Weather"
+},{
+    "Dex": "111",
+    "Name": "Rhyhorn",
+    "Weather": "All Weather"
+},{
+    "Dex": "356",
+    "Name": "Dusclops",
+    "Weather": "All Weather"
+},{
+    "Dex": "093",
+    "Name": "Haunter",
+    "Weather": "All Weather"
+},{
+    "Dex": "437",
+    "Name": "Bronzong",
+    "Weather": "All Weather"
+},{
+    "Dex": "450",
+    "Name": "Hippowdon",
+    "Weather": "All Weather"
+},{
+    "Dex": "452",
+    "Name": "Drapion",
+    "Weather": "All Weather"
+},{
+    "Dex": "870",
+    "Name": "Falinks",
+    "Weather": "All Weather"
+},{
+    "Dex": "872",
+    "Name": "Snom",
+    "Weather": "All Weather"
+},{
+    "Dex": "215",
+    "Name": "Sneasel",
+    "Weather": "All Weather"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "All Weather"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "All Weather"
+},{
+    "Dex": "845",
+    "Name": "Cramorant",
+    "Weather": "All Weather"
+},{
+    "Dex": "224",
+    "Name": "Octillery",
+    "Weather": "All Weather"
+},{
+    "Dex": "099",
+    "Name": "Kingler",
+    "Weather": "All Weather"
+},{
+    "Dex": "871",
+    "Name": "Pincurchin",
+    "Weather": "All Weather"
+},{
+    "Dex": "224",
+    "Name": "Octillery",
+    "Weather": "Fishing"
+},{
+    "Dex": "746",
+    "Name": "Wishiwashi",
+    "Weather": "Fishing"
+},{
+    "Dex": "771",
+    "Name": "Pyukumuku",
+    "Weather": "Fishing"
+},{
+    "Dex": "845",
+    "Name": "Cramorant",
+    "Weather": "All Weather"
+},{
+    "Dex": "423",
+    "Name": "Gastrodon",
+    "Weather": "All Weather"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "All Weather"
+},{
+    "Dex": "871",
+    "Name": "Pincurchin",
+    "Weather": "All Weather"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "458",
+    "Name": "Mantyke",
+    "Weather": "Fishing"
+},{
+    "Dex": "320",
+    "Name": "Wailmer",
+    "Weather": "Fishing"
+},{
+    "Dex": "226",
+    "Name": "Mantine",
+    "Weather": "Fishing"
+},{
+    "Dex": "321",
+    "Name": "Wailord",
+    "Weather": "Fishing"
+},{
+    "Dex": "131",
+    "Name": "Lapras",
+    "Weather": "Fishing"
+},{
+    "Dex": "863",
+    "Name": "Perrserker",
+    "Weather": "All Weather"
+},{
+    "Dex": "828",
+    "Name": "Thievul",
+    "Weather": "All Weather"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "All Weather"
+},{
+    "Dex": "877",
+    "Name": "Morpeko",
+    "Weather": "All Weather"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "600",
+    "Name": "Klang",
+    "Weather": "All Weather"
+},{
+    "Dex": "583",
+    "Name": "Vanillish",
+    "Weather": "All Weather"
+},{
+    "Dex": "112",
+    "Name": "Rhydon",
+    "Weather": "All Weather"
+},{
+    "Dex": "872",
+    "Name": "Snom",
+    "Weather": "All Weather"
+},{
+    "Dex": "583",
+    "Name": "Vanillish",
+    "Weather": "All Weather"
+},{
+    "Dex": "525",
+    "Name": "Boldore",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "743",
+    "Name": "Ribombee",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "546",
+    "Name": "Cottonee",
+    "Weather": "Overcast"
+},{
+    "Dex": "682",
+    "Name": "Spritzee",
+    "Weather": "Overcast"
+},{
+    "Dex": "743",
+    "Name": "Ribombee",
+    "Weather": "Overcast"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Overcast"
+},{
+    "Dex": "339",
+    "Name": "Barboach",
+    "Weather": "Raining"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Raining"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Raining"
+},{
+    "Dex": "025",
+    "Name": "Pikachu",
+    "Weather": "Raining"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "525",
+    "Name": "Boldore",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "840",
+    "Name": "Applin",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "838",
+    "Name": "Carkol",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "525",
+    "Name": "Boldore",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "529",
+    "Name": "Drilbur",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "613",
+    "Name": "Cubchoo",
+    "Weather": "Snowing"
+},{
+    "Dex": "215",
+    "Name": "Sneasel",
+    "Weather": "Snowing"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Snowing"
+},{
+    "Dex": "525",
+    "Name": "Boldore",
+    "Weather": "Snowing"
+},{
+    "Dex": "215",
+    "Name": "Sneasel",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "624",
+    "Name": "Pawniard",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "613",
+    "Name": "Cubchoo",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "525",
+    "Name": "Boldore",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "529",
+    "Name": "Drilbur",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "111",
+    "Name": "Rhyhorn",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "828",
+    "Name": "Thievul",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "176",
+    "Name": "Togetic",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "832",
+    "Name": "Dubwool",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "857",
+    "Name": "Hattrem",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "840",
+    "Name": "Applin",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "435",
+    "Name": "Skuntank",
+    "Weather": "Overcast"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Overcast"
+},{
+    "Dex": "857",
+    "Name": "Hattrem",
+    "Weather": "Overcast"
+},{
+    "Dex": "315",
+    "Name": "Roselia",
+    "Weather": "Overcast"
+},{
+    "Dex": "279",
+    "Name": "Pelipper",
+    "Weather": "Raining"
+},{
+    "Dex": "689",
+    "Name": "Barbaracle",
+    "Weather": "Raining"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Raining"
+},{
+    "Dex": "857",
+    "Name": "Hattrem",
+    "Weather": "Raining"
+},{
+    "Dex": "834",
+    "Name": "Drednaw",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "836",
+    "Name": "Boltund",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "737",
+    "Name": "Charjabug",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "112",
+    "Name": "Rhydon",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "750",
+    "Name": "Mudsdale",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "839",
+    "Name": "Coalossal",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "221",
+    "Name": "Piloswine",
+    "Weather": "Snowing"
+},{
+    "Dex": "460",
+    "Name": "Abomasnow",
+    "Weather": "Snowing"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Snowing"
+},{
+    "Dex": "533",
+    "Name": "Gurdurr",
+    "Weather": "Snowing"
+},{
+    "Dex": "437",
+    "Name": "Bronzong",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "600",
+    "Name": "Klang",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "857",
+    "Name": "Hattrem",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "598",
+    "Name": "Ferrothorn",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "051",
+    "Name": "Dugtrio",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "185",
+    "Name": "Sudowoodo",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "857",
+    "Name": "Hattrem",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "857",
+    "Name": "Hattrem",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "282",
+    "Name": "Gardevoir",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "847",
+    "Name": "Barraskewda",
+    "Weather": "Fishing"
+},{
+    "Dex": "171",
+    "Name": "Lanturn",
+    "Weather": "Fishing"
+},{
+    "Dex": "211",
+    "Name": "Qwilfish",
+    "Weather": "Fishing"
+},{
+    "Dex": "130",
+    "Name": "Gyarados",
+    "Weather": "Fishing"
+},{
+    "Dex": "109",
+    "Name": "Koffing",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "451",
+    "Name": "Skorupi",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "451",
+    "Name": "Skorupi",
+    "Weather": "Overcast"
+},{
+    "Dex": "109",
+    "Name": "Koffing",
+    "Weather": "Overcast"
+},{
+    "Dex": "315",
+    "Name": "Roselia",
+    "Weather": "Overcast"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Overcast"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Overcast"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Raining"
+},{
+    "Dex": "451",
+    "Name": "Skorupi",
+    "Weather": "Raining"
+},{
+    "Dex": "109",
+    "Name": "Koffing",
+    "Weather": "Raining"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Raining"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Raining"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "840",
+    "Name": "Applin",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "451",
+    "Name": "Skorupi",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "109",
+    "Name": "Koffing",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "050",
+    "Name": "Diglett",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "451",
+    "Name": "Skorupi",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "109",
+    "Name": "Koffing",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "324",
+    "Name": "Torkoal",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "220",
+    "Name": "Swinub",
+    "Weather": "Snowing"
+},{
+    "Dex": "613",
+    "Name": "Cubchoo",
+    "Weather": "Snowing"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowing"
+},{
+    "Dex": "109",
+    "Name": "Koffing",
+    "Weather": "Snowing"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Snowing"
+},{
+    "Dex": "613",
+    "Name": "Cubchoo",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "220",
+    "Name": "Swinub",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "109",
+    "Name": "Koffing",
+    "Weather": "Snowstorm"
+},
+{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "All Weather"
+},{
+    "Dex": "824",
+    "Name": "Blipbug",
+    "Weather": "All Weather"
+},{
+    "Dex": "010",
+    "Name": "Caterpie",
+    "Weather": "All Weather"
+},{
+    "Dex": "736",
+    "Name": "Grubbin",
+    "Weather": "All Weather"
+},{
+    "Dex": "163",
+    "Name": "Hoothoot",
+    "Weather": "All Weather"
+},{
+    "Dex": "824",
+    "Name": "Blipbug",
+    "Weather": "All Weather"
+},{
+    "Dex": "821",
+    "Name": "Rookidee",
+    "Weather": "All Weather"
+},{
+    "Dex": "270",
+    "Name": "Lotad",
+    "Weather": "All Weather"
+},{
+    "Dex": "509",
+    "Name": "Purrloin",
+    "Weather": "All Weather"
+},{
+    "Dex": "163",
+    "Name": "Hoothoot",
+    "Weather": "All Weather"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Fishing"
+},{
+    "Dex": "846",
+    "Name": "Arrokuda",
+    "Weather": "Fishing"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "761",
+    "Name": "Bounsweet",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "043",
+    "Name": "Oddish",
+    "Weather": "Overcast"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Overcast"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Overcast"
+},{
+    "Dex": "011",
+    "Name": "Metapod",
+    "Weather": "Overcast"
+},{
+    "Dex": "270",
+    "Name": "Lotad",
+    "Weather": "Raining"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Raining"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Raining"
+},{
+    "Dex": "011",
+    "Name": "Metapod",
+    "Weather": "Raining"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "309",
+    "Name": "Electrike",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "011",
+    "Name": "Metapod",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "749",
+    "Name": "Mudbray",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "058",
+    "Name": "Growlithe",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowing"
+},{
+    "Dex": "220",
+    "Name": "Swinub",
+    "Weather": "Snowing"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Snowing"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Snowing"
+},{
+    "Dex": "220",
+    "Name": "Swinub",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "557",
+    "Name": "Dwebble",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "622",
+    "Name": "Golett",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "517",
+    "Name": "Munna",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "177",
+    "Name": "Natu",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "011",
+    "Name": "Metapod",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "270",
+    "Name": "Lotad",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "761",
+    "Name": "Bounsweet",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Overcast"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Overcast"
+},{
+    "Dex": "270",
+    "Name": "Lotad",
+    "Weather": "Overcast"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Overcast"
+},{
+    "Dex": "535",
+    "Name": "Tympole",
+    "Weather": "Raining"
+},{
+    "Dex": "736",
+    "Name": "Grubbin",
+    "Weather": "Raining"
+},{
+    "Dex": "270",
+    "Name": "Lotad",
+    "Weather": "Raining"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Raining"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "736",
+    "Name": "Grubbin",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "270",
+    "Name": "Lotad",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "058",
+    "Name": "Growlithe",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "749",
+    "Name": "Mudbray",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowing"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowing"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowing"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Snowing"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "622",
+    "Name": "Golett",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "761",
+    "Name": "Bounsweet",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "280",
+    "Name": "Ralts",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "270",
+    "Name": "Lotad",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "509",
+    "Name": "Purrloin",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "622",
+    "Name": "Golett",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "425",
+    "Name": "Drifloon",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "761",
+    "Name": "Bounsweet",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "519",
+    "Name": "Pidove",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Overcast"
+},{
+    "Dex": "092",
+    "Name": "Gastly",
+    "Weather": "Overcast"
+},{
+    "Dex": "761",
+    "Name": "Bounsweet",
+    "Weather": "Overcast"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Overcast"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Raining"
+},{
+    "Dex": "535",
+    "Name": "Tympole",
+    "Weather": "Raining"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Raining"
+},{
+    "Dex": "519",
+    "Name": "Pidove",
+    "Weather": "Raining"
+},{
+    "Dex": "309",
+    "Name": "Electrike",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "736",
+    "Name": "Grubbin",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "519",
+    "Name": "Pidove",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "622",
+    "Name": "Golett",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "058",
+    "Name": "Growlithe",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "425",
+    "Name": "Drifloon",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowing"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Snowing"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowing"
+},{
+    "Dex": "425",
+    "Name": "Drifloon",
+    "Weather": "Snowing"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "425",
+    "Name": "Drifloon",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "622",
+    "Name": "Golett",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "557",
+    "Name": "Dwebble",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "519",
+    "Name": "Pidove",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "509",
+    "Name": "Purrloin",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "519",
+    "Name": "Pidove",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "043",
+    "Name": "Oddish",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "519",
+    "Name": "Pidove",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Overcast"
+},{
+    "Dex": "043",
+    "Name": "Oddish",
+    "Weather": "Overcast"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Overcast"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Overcast"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Raining"
+},{
+    "Dex": "736",
+    "Name": "Grubbin",
+    "Weather": "Raining"
+},{
+    "Dex": "043",
+    "Name": "Oddish",
+    "Weather": "Raining"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Raining"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "309",
+    "Name": "Electrike",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "043",
+    "Name": "Oddish",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "749",
+    "Name": "Mudbray",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "058",
+    "Name": "Growlithe",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "095",
+    "Name": "Onix",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowing"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowing"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Snowing"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Snowing"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "557",
+    "Name": "Dwebble",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "095",
+    "Name": "Onix",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "509",
+    "Name": "Purrloin",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "517",
+    "Name": "Munna",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "572",
+    "Name": "Minccino",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "118",
+    "Name": "Goldeen",
+    "Weather": "Fishing"
+},{
+    "Dex": "090",
+    "Name": "Shellder",
+    "Weather": "Fishing"
+},{
+    "Dex": "746",
+    "Name": "Wishiwashi",
+    "Weather": "Fishing"
+},{
+    "Dex": "194",
+    "Name": "Wooper",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "098",
+    "Name": "Krabby",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "761",
+    "Name": "Bounsweet",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "098",
+    "Name": "Krabby",
+    "Weather": "Overcast"
+},{
+    "Dex": "194",
+    "Name": "Wooper",
+    "Weather": "Overcast"
+},{
+    "Dex": "674",
+    "Name": "Pancham",
+    "Weather": "Overcast"
+},{
+    "Dex": "236",
+    "Name": "Tyrogue",
+    "Weather": "Overcast"
+},{
+    "Dex": "194",
+    "Name": "Wooper",
+    "Weather": "Raining"
+},{
+    "Dex": "535",
+    "Name": "Tympole",
+    "Weather": "Raining"
+},{
+    "Dex": "098",
+    "Name": "Krabby",
+    "Weather": "Raining"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Raining"
+},{
+    "Dex": "309",
+    "Name": "Electrike",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "535",
+    "Name": "Tympole",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "098",
+    "Name": "Krabby",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "058",
+    "Name": "Growlithe",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "674",
+    "Name": "Pancham",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowing"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowing"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Snowing"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowing"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "659",
+    "Name": "Bunnelby",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "194",
+    "Name": "Wooper",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "290",
+    "Name": "Nincada",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "749",
+    "Name": "Mudbray",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "177",
+    "Name": "Natu",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "098",
+    "Name": "Krabby",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "280",
+    "Name": "Ralts",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "118",
+    "Name": "Goldeen",
+    "Weather": "Fishing"
+},{
+    "Dex": "223",
+    "Name": "Remoraid",
+    "Weather": "Fishing"
+},{
+    "Dex": "746",
+    "Name": "Wishiwashi",
+    "Weather": "Fishing"
+},{
+    "Dex": "521",
+    "Name": "Unfezant",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "762",
+    "Name": "Steenee",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "315",
+    "Name": "Roselia",
+    "Weather": "Overcast"
+},{
+    "Dex": "044",
+    "Name": "Gloom",
+    "Weather": "Overcast"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Overcast"
+},{
+    "Dex": "521",
+    "Name": "Unfezant",
+    "Weather": "Overcast"
+},{
+    "Dex": "279",
+    "Name": "Pelipper",
+    "Weather": "Raining"
+},{
+    "Dex": "737",
+    "Name": "Charjabug",
+    "Weather": "Raining"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Raining"
+},{
+    "Dex": "521",
+    "Name": "Unfezant",
+    "Weather": "Raining"
+},{
+    "Dex": "342",
+    "Name": "Crawdaunt",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "310",
+    "Name": "Manectric",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "521",
+    "Name": "Unfezant",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "058",
+    "Name": "Growlithe",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "521",
+    "Name": "Unfezant",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "750",
+    "Name": "Mudsdale",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowing"
+},{
+    "Dex": "583",
+    "Name": "Vanillish",
+    "Weather": "Snowing"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Snowing"
+},{
+    "Dex": "521",
+    "Name": "Unfezant",
+    "Weather": "Snowing"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "558",
+    "Name": "Crustle",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "750",
+    "Name": "Mudsdale",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "517",
+    "Name": "Munna",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "521",
+    "Name": "Unfezant",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "224",
+    "Name": "Octillery",
+    "Weather": "Fishing"
+},{
+    "Dex": "746",
+    "Name": "Wishiwashi",
+    "Weather": "Fishing"
+},{
+    "Dex": "130",
+    "Name": "Gyarados",
+    "Weather": "Fishing"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "535",
+    "Name": "Tympole",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Overcast"
+},{
+    "Dex": "315",
+    "Name": "Roselia",
+    "Weather": "Overcast"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Overcast"
+},{
+    "Dex": "236",
+    "Name": "Tyrogue",
+    "Weather": "Overcast"
+},{
+    "Dex": "535",
+    "Name": "Tympole",
+    "Weather": "Raining"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Raining"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Raining"
+},{
+    "Dex": "278",
+    "Name": "Wingull",
+    "Weather": "Raining"
+},{
+    "Dex": "309",
+    "Name": "Electrike",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "058",
+    "Name": "Growlithe",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "315",
+    "Name": "Roselia",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "290",
+    "Name": "Nincada",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowing"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowing"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Snowing"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Snowing"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "290",
+    "Name": "Nincada",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "194",
+    "Name": "Wooper",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "535",
+    "Name": "Tympole",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "177",
+    "Name": "Natu",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "280",
+    "Name": "Ralts",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "223",
+    "Name": "Remoraid",
+    "Weather": "Fishing"
+},{
+    "Dex": "339",
+    "Name": "Barboach",
+    "Weather": "Fishing"
+},{
+    "Dex": "771",
+    "Name": "Pyukumuku",
+    "Weather": "Fishing"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "095",
+    "Name": "Onix",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "520",
+    "Name": "Tranquill",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "067",
+    "Name": "Machoke",
+    "Weather": "Overcast"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Overcast"
+},{
+    "Dex": "095",
+    "Name": "Onix",
+    "Weather": "Overcast"
+},{
+    "Dex": "093",
+    "Name": "Haunter",
+    "Weather": "Overcast"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Overcast"
+},{
+    "Dex": "195",
+    "Name": "Quagsire",
+    "Weather": "Raining"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Raining"
+},{
+    "Dex": "271",
+    "Name": "Lombre",
+    "Weather": "Raining"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Raining"
+},{
+    "Dex": "310",
+    "Name": "Manectric",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "342",
+    "Name": "Crawdaunt",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "557",
+    "Name": "Dwebble",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "095",
+    "Name": "Onix",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "750",
+    "Name": "Mudsdale",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowing"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Snowing"
+},{
+    "Dex": "220",
+    "Name": "Swinub",
+    "Weather": "Snowing"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Snowing"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "220",
+    "Name": "Swinub",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "750",
+    "Name": "Mudsdale",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "095",
+    "Name": "Onix",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "557",
+    "Name": "Dwebble",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "178",
+    "Name": "Xatu",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "436",
+    "Name": "Bronzor",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "090",
+    "Name": "Shellder",
+    "Weather": "Fishing"
+},{
+    "Dex": "771",
+    "Name": "Pyukumuku",
+    "Weather": "Fishing"
+},{
+    "Dex": "130",
+    "Name": "Gyarados",
+    "Weather": "Fishing"
+},{
+    "Dex": "091",
+    "Name": "Cloyster",
+    "Weather": "Fishing"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "519",
+    "Name": "Pidove",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Overcast"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Overcast"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Overcast"
+},{
+    "Dex": "092",
+    "Name": "Gastly",
+    "Weather": "Overcast"
+},{
+    "Dex": "535",
+    "Name": "Tympole",
+    "Weather": "Raining"
+},{
+    "Dex": "736",
+    "Name": "Grubbin",
+    "Weather": "Raining"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Raining"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Raining"
+},{
+    "Dex": "736",
+    "Name": "Grubbin",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "749",
+    "Name": "Mudbray",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowing"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowing"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Snowing"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Snowing"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "557",
+    "Name": "Dwebble",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "749",
+    "Name": "Mudbray",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "177",
+    "Name": "Natu",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "759",
+    "Name": "Stufful",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "280",
+    "Name": "Ralts",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "339",
+    "Name": "Barboach",
+    "Weather": "Fishing"
+},{
+    "Dex": "550",
+    "Name": "Basculin",
+    "Weather": "Fishing"
+},{
+    "Dex": "821",
+    "Name": "Rookidee",
+    "Weather": "All Weather"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "All Weather"
+},{
+    "Dex": "674",
+    "Name": "Pancham",
+    "Weather": "All Weather"
+},{
+    "Dex": "749",
+    "Name": "Mudbray",
+    "Weather": "All Weather"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "All Weather"
+},{
+    "Dex": "850",
+    "Name": "Sizzlipede",
+    "Weather": "All Weather"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "164",
+    "Name": "Noctowl",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "832",
+    "Name": "Dubwool",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "451",
+    "Name": "Skorupi",
+    "Weather": "Overcast"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Overcast"
+},{
+    "Dex": "164",
+    "Name": "Noctowl",
+    "Weather": "Overcast"
+},{
+    "Dex": "832",
+    "Name": "Dubwool",
+    "Weather": "Overcast"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Overcast"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Raining"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Raining"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Raining"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Raining"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Raining"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "836",
+    "Name": "Boltund",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "111",
+    "Name": "Rhyhorn",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "607",
+    "Name": "Litwick",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "164",
+    "Name": "Noctowl",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "215",
+    "Name": "Sneasel",
+    "Weather": "Snowing"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowing"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Snowing"
+},{
+    "Dex": "164",
+    "Name": "Noctowl",
+    "Weather": "Snowing"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Snowing"
+},{
+    "Dex": "624",
+    "Name": "Pawniard",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "215",
+    "Name": "Sneasel",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "111",
+    "Name": "Rhyhorn",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "095",
+    "Name": "Onix",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "164",
+    "Name": "Noctowl",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "677",
+    "Name": "Espurr",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "605",
+    "Name": "Elgyem",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "164",
+    "Name": "Noctowl",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "561",
+    "Name": "Sigilyph",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "846",
+    "Name": "Arrokuda",
+    "Weather": "Fishing"
+},{
+    "Dex": "550",
+    "Name": "Basculin",
+    "Weather": "Fishing"
+},{
+    "Dex": "847",
+    "Name": "Barraskewda",
+    "Weather": "Fishing"
+},{
+    "Dex": "747",
+    "Name": "Mareanie",
+    "Weather": "Fishing"
+},{
+    "Dex": "828",
+    "Name": "Thievul",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "202",
+    "Name": "Wobbuffet",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "175",
+    "Name": "Togepi",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Overcast"
+},{
+    "Dex": "828",
+    "Name": "Thievul",
+    "Weather": "Overcast"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Overcast"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Overcast"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Overcast"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Overcast"
+},{
+    "Dex": "175",
+    "Name": "Togepi",
+    "Weather": "Overcast"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Raining"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Raining"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Raining"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Raining"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Raining"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Raining"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "607",
+    "Name": "Litwick",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "828",
+    "Name": "Thievul",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "838",
+    "Name": "Carkol",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "215",
+    "Name": "Sneasel",
+    "Weather": "Snowing"
+},{
+    "Dex": "828",
+    "Name": "Thievul",
+    "Weather": "Snowing"
+},{
+    "Dex": "613",
+    "Name": "Cubchoo",
+    "Weather": "Snowing"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Snowing"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Snowing"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Snowing"
+},{
+    "Dex": "215",
+    "Name": "Sneasel",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "613",
+    "Name": "Cubchoo",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "111",
+    "Name": "Rhyhorn",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "629",
+    "Name": "Vullaby",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "185",
+    "Name": "Sudowoodo",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "868",
+    "Name": "Milcery",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "607",
+    "Name": "Litwick",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "605",
+    "Name": "Elgyem",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "828",
+    "Name": "Thievul",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "175",
+    "Name": "Togepi",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "834",
+    "Name": "Drednaw",
+    "Weather": "Fishing"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "171",
+    "Name": "Lanturn",
+    "Weather": "Fishing"
+},{
+    "Dex": "211",
+    "Name": "Qwilfish",
+    "Weather": "Fishing"
+},{
+    "Dex": "130",
+    "Name": "Gyarados",
+    "Weather": "Fishing"
+},{
+    "Dex": "052",
+    "Name": "Meowth",
+    "Weather": "All Weather"
+},{
+    "Dex": "831",
+    "Name": "Wooloo",
+    "Weather": "All Weather"
+},{
+    "Dex": "868",
+    "Name": "Milcery",
+    "Weather": "All Weather"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "All Weather"
+},{
+    "Dex": "742",
+    "Name": "Cutiefly",
+    "Weather": "All Weather"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "All Weather"
+},{
+    "Dex": "597",
+    "Name": "Ferroseed",
+    "Weather": "All Weather"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Fishing"
+},{
+    "Dex": "118",
+    "Name": "Goldeen",
+    "Weather": "Fishing"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "All Weather"
+},{
+    "Dex": "821",
+    "Name": "Rookidee",
+    "Weather": "All Weather"
+},{
+    "Dex": "163",
+    "Name": "Hoothoot",
+    "Weather": "All Weather"
+},{
+    "Dex": "824",
+    "Name": "Blipbug",
+    "Weather": "All Weather"
+},{
+    "Dex": "736",
+    "Name": "Grubbin",
+    "Weather": "All Weather"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Fishing"
+},{
+    "Dex": "339",
+    "Name": "Barboach",
+    "Weather": "Fishing"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "All Weather"
+},{
+    "Dex": "677",
+    "Name": "Espurr",
+    "Weather": "All Weather"
+},{
+    "Dex": "271",
+    "Name": "Lombre",
+    "Weather": "All Weather"
+},{
+    "Dex": "682",
+    "Name": "Spritzee",
+    "Weather": "All Weather"
+},{
+    "Dex": "840",
+    "Name": "Applin",
+    "Weather": "All Weather"
+},{
+    "Dex": "751",
+    "Name": "Dewpider",
+    "Weather": "All Weather"
+},{
+    "Dex": "290",
+    "Name": "Nincada",
+    "Weather": "All Weather"
+},{
+    "Dex": "819",
+    "Name": "Skwovet",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Fishing"
+},{
+    "Dex": "118",
+    "Name": "Goldeen",
+    "Weather": "Fishing"
+},{
+    "Dex": "846",
+    "Name": "Arrokuda",
+    "Weather": "Fishing"
+},{
+    "Dex": "170",
+    "Name": "Chinchou",
+    "Weather": "Fishing"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Fishing"
+},{
+    "Dex": "550",
+    "Name": "Basculin",
+    "Weather": "Fishing"
+},{
+    "Dex": "746",
+    "Name": "Wishiwashi",
+    "Weather": "Fishing"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Overcast"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Overcast"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Overcast"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Overcast"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Overcast"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Overcast"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Overcast"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Overcast"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Raining"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Raining"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Raining"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Raining"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Raining"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Raining"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Raining"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Raining"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Snowing"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Snowing"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Snowing"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Snowing"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Snowing"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Snowing"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Snowing"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Snowing"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "767",
+    "Name": "Wimpod",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "714",
+    "Name": "Noibat",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "688",
+    "Name": "Binacle",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "339",
+    "Name": "Barboach",
+    "Weather": "Fishing"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Fishing"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Fishing"
+},{
+    "Dex": "837",
+    "Name": "Rolycoly",
+    "Weather": "All Weather"
+},{
+    "Dex": "524",
+    "Name": "Roggenrola",
+    "Weather": "All Weather"
+},{
+    "Dex": "050",
+    "Name": "Diglett",
+    "Weather": "All Weather"
+},{
+    "Dex": "529",
+    "Name": "Drilbur",
+    "Weather": "All Weather"
+},{
+    "Dex": "527",
+    "Name": "Woobat",
+    "Weather": "All Weather"
+},{
+    "Dex": "532",
+    "Name": "Timburr",
+    "Weather": "All Weather"
+},{
+    "Dex": "453",
+    "Name": "Croagunk",
+    "Weather": "All Weather"
+},{
+    "Dex": "524",
+    "Name": "Roggenrola",
+    "Weather": "All Weather"
+},{
+    "Dex": "624",
+    "Name": "Pawniard",
+    "Weather": "All Weather"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "All Weather"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "All Weather"
+},{
+    "Dex": "860",
+    "Name": "Morgrem",
+    "Weather": "All Weather"
+},{
+    "Dex": "756",
+    "Name": "Shiinotic",
+    "Weather": "All Weather"
+},{
+    "Dex": "077",
+    "Name": "Ponyta",
+    "Weather": "All Weather"
+},{
+    "Dex": "857",
+    "Name": "Hattrem",
+    "Weather": "All Weather"
+},{
+    "Dex": "708",
+    "Name": "Phantump",
+    "Weather": "All Weather"
+},{
+    "Dex": "682",
+    "Name": "Spritzee",
+    "Weather": "All Weather"
+},{
+    "Dex": "854",
+    "Name": "Sinistea",
+    "Weather": "All Weather"
+},{
+    "Dex": "765",
+    "Name": "Oranguru",
+    "Weather": "All Weather"
+},{
+    "Dex": "876",
+    "Name": "Indeedee",
+    "Weather": "All Weather"
+},{
+    "Dex": "854",
+    "Name": "Sinistea",
+    "Weather": "All Weather"
+},{
+    "Dex": "843",
+    "Name": "Silicobra",
+    "Weather": "All Weather"
+},{
+    "Dex": "631",
+    "Name": "Heatmor",
+    "Weather": "All Weather"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "All Weather"
+},{
+    "Dex": "451",
+    "Name": "Skorupi",
+    "Weather": "All Weather"
+},{
+    "Dex": "449",
+    "Name": "Hippopotas",
+    "Weather": "All Weather"
+},{
+    "Dex": "632",
+    "Name": "Durant",
+    "Weather": "All Weather"
+},{
+    "Dex": "324",
+    "Name": "Torkoal",
+    "Weather": "All Weather"
+},{
+    "Dex": "701",
+    "Name": "Hawlucha",
+    "Weather": "All Weather"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "834",
+    "Name": "Drednaw",
+    "Weather": "Fishing"
+},{
+    "Dex": "118",
+    "Name": "Goldeen",
+    "Weather": "Fishing"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Overcast"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Overcast"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Overcast"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Overcast"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Overcast"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Overcast"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Overcast"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Raining"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Raining"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Raining"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Raining"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Raining"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Raining"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Raining"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Snowing"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Snowing"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Snowing"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Snowing"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Snowing"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Snowing"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Snowing"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "537",
+    "Name": "Seismitoad",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "844",
+    "Name": "Sandaconda",
+    "Weather": "All Weather"
+},{
+    "Dex": "111",
+    "Name": "Rhyhorn",
+    "Weather": "All Weather"
+},{
+    "Dex": "356",
+    "Name": "Dusclops",
+    "Weather": "All Weather"
+},{
+    "Dex": "093",
+    "Name": "Haunter",
+    "Weather": "All Weather"
+},{
+    "Dex": "437",
+    "Name": "Bronzong",
+    "Weather": "All Weather"
+},{
+    "Dex": "450",
+    "Name": "Hippowdon",
+    "Weather": "All Weather"
+},{
+    "Dex": "452",
+    "Name": "Drapion",
+    "Weather": "All Weather"
+},{
+    "Dex": "870",
+    "Name": "Falinks",
+    "Weather": "All Weather"
+},{
+    "Dex": "872",
+    "Name": "Snom",
+    "Weather": "All Weather"
+},{
+    "Dex": "215",
+    "Name": "Sneasel",
+    "Weather": "All Weather"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "All Weather"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "All Weather"
+},{
+    "Dex": "845",
+    "Name": "Cramorant",
+    "Weather": "All Weather"
+},{
+    "Dex": "224",
+    "Name": "Octillery",
+    "Weather": "All Weather"
+},{
+    "Dex": "099",
+    "Name": "Kingler",
+    "Weather": "All Weather"
+},{
+    "Dex": "871",
+    "Name": "Pincurchin",
+    "Weather": "All Weather"
+},{
+    "Dex": "224",
+    "Name": "Octillery",
+    "Weather": "Fishing"
+},{
+    "Dex": "746",
+    "Name": "Wishiwashi",
+    "Weather": "Fishing"
+},{
+    "Dex": "771",
+    "Name": "Pyukumuku",
+    "Weather": "Fishing"
+},{
+    "Dex": "845",
+    "Name": "Cramorant",
+    "Weather": "All Weather"
+},{
+    "Dex": "423",
+    "Name": "Gastrodon",
+    "Weather": "All Weather"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "All Weather"
+},{
+    "Dex": "871",
+    "Name": "Pincurchin",
+    "Weather": "All Weather"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "458",
+    "Name": "Mantyke",
+    "Weather": "Fishing"
+},{
+    "Dex": "320",
+    "Name": "Wailmer",
+    "Weather": "Fishing"
+},{
+    "Dex": "226",
+    "Name": "Mantine",
+    "Weather": "Fishing"
+},{
+    "Dex": "321",
+    "Name": "Wailord",
+    "Weather": "Fishing"
+},{
+    "Dex": "131",
+    "Name": "Lapras",
+    "Weather": "Fishing"
+},{
+    "Dex": "863",
+    "Name": "Perrserker",
+    "Weather": "All Weather"
+},{
+    "Dex": "828",
+    "Name": "Thievul",
+    "Weather": "All Weather"
+},{
+    "Dex": "510",
+    "Name": "Liepard",
+    "Weather": "All Weather"
+},{
+    "Dex": "877",
+    "Name": "Morpeko",
+    "Weather": "All Weather"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "600",
+    "Name": "Klang",
+    "Weather": "All Weather"
+},{
+    "Dex": "583",
+    "Name": "Vanillish",
+    "Weather": "All Weather"
+},{
+    "Dex": "112",
+    "Name": "Rhydon",
+    "Weather": "All Weather"
+},{
+    "Dex": "872",
+    "Name": "Snom",
+    "Weather": "All Weather"
+},{
+    "Dex": "583",
+    "Name": "Vanillish",
+    "Weather": "All Weather"
+},{
+    "Dex": "525",
+    "Name": "Boldore",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "743",
+    "Name": "Ribombee",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "546",
+    "Name": "Cottonee",
+    "Weather": "Overcast"
+},{
+    "Dex": "682",
+    "Name": "Spritzee",
+    "Weather": "Overcast"
+},{
+    "Dex": "743",
+    "Name": "Ribombee",
+    "Weather": "Overcast"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Overcast"
+},{
+    "Dex": "339",
+    "Name": "Barboach",
+    "Weather": "Raining"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Raining"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Raining"
+},{
+    "Dex": "025",
+    "Name": "Pikachu",
+    "Weather": "Raining"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "525",
+    "Name": "Boldore",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "840",
+    "Name": "Applin",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "838",
+    "Name": "Carkol",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "525",
+    "Name": "Boldore",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "529",
+    "Name": "Drilbur",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "613",
+    "Name": "Cubchoo",
+    "Weather": "Snowing"
+},{
+    "Dex": "215",
+    "Name": "Sneasel",
+    "Weather": "Snowing"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Snowing"
+},{
+    "Dex": "525",
+    "Name": "Boldore",
+    "Weather": "Snowing"
+},{
+    "Dex": "215",
+    "Name": "Sneasel",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "624",
+    "Name": "Pawniard",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "613",
+    "Name": "Cubchoo",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "525",
+    "Name": "Boldore",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "529",
+    "Name": "Drilbur",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "111",
+    "Name": "Rhyhorn",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "213",
+    "Name": "Shuckle",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "828",
+    "Name": "Thievul",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "176",
+    "Name": "Togetic",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "832",
+    "Name": "Dubwool",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "857",
+    "Name": "Hattrem",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "840",
+    "Name": "Applin",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "435",
+    "Name": "Skuntank",
+    "Weather": "Overcast"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Overcast"
+},{
+    "Dex": "857",
+    "Name": "Hattrem",
+    "Weather": "Overcast"
+},{
+    "Dex": "315",
+    "Name": "Roselia",
+    "Weather": "Overcast"
+},{
+    "Dex": "279",
+    "Name": "Pelipper",
+    "Weather": "Raining"
+},{
+    "Dex": "689",
+    "Name": "Barbaracle",
+    "Weather": "Raining"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Raining"
+},{
+    "Dex": "857",
+    "Name": "Hattrem",
+    "Weather": "Raining"
+},{
+    "Dex": "834",
+    "Name": "Drednaw",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "836",
+    "Name": "Boltund",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "737",
+    "Name": "Charjabug",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "112",
+    "Name": "Rhydon",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "750",
+    "Name": "Mudsdale",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "839",
+    "Name": "Coalossal",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "221",
+    "Name": "Piloswine",
+    "Weather": "Snowing"
+},{
+    "Dex": "460",
+    "Name": "Abomasnow",
+    "Weather": "Snowing"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Snowing"
+},{
+    "Dex": "533",
+    "Name": "Gurdurr",
+    "Weather": "Snowing"
+},{
+    "Dex": "437",
+    "Name": "Bronzong",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "600",
+    "Name": "Klang",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "857",
+    "Name": "Hattrem",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "598",
+    "Name": "Ferrothorn",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "051",
+    "Name": "Dugtrio",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "185",
+    "Name": "Sudowoodo",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "857",
+    "Name": "Hattrem",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "678",
+    "Name": "Meowstic",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "857",
+    "Name": "Hattrem",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "282",
+    "Name": "Gardevoir",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "847",
+    "Name": "Barraskewda",
+    "Weather": "Fishing"
+},{
+    "Dex": "171",
+    "Name": "Lanturn",
+    "Weather": "Fishing"
+},{
+    "Dex": "211",
+    "Name": "Qwilfish",
+    "Weather": "Fishing"
+},{
+    "Dex": "130",
+    "Name": "Gyarados",
+    "Weather": "Fishing"
+},{
+    "Dex": "109",
+    "Name": "Koffing",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "451",
+    "Name": "Skorupi",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "406",
+    "Name": "Budew",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "451",
+    "Name": "Skorupi",
+    "Weather": "Overcast"
+},{
+    "Dex": "109",
+    "Name": "Koffing",
+    "Weather": "Overcast"
+},{
+    "Dex": "315",
+    "Name": "Roselia",
+    "Weather": "Overcast"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Overcast"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Overcast"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Raining"
+},{
+    "Dex": "451",
+    "Name": "Skorupi",
+    "Weather": "Raining"
+},{
+    "Dex": "109",
+    "Name": "Koffing",
+    "Weather": "Raining"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Raining"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Raining"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "840",
+    "Name": "Applin",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "451",
+    "Name": "Skorupi",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "109",
+    "Name": "Koffing",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "050",
+    "Name": "Diglett",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "451",
+    "Name": "Skorupi",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "109",
+    "Name": "Koffing",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "324",
+    "Name": "Torkoal",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "220",
+    "Name": "Swinub",
+    "Weather": "Snowing"
+},{
+    "Dex": "613",
+    "Name": "Cubchoo",
+    "Weather": "Snowing"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowing"
+},{
+    "Dex": "109",
+    "Name": "Koffing",
+    "Weather": "Snowing"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Snowing"
+},{
+    "Dex": "613",
+    "Name": "Cubchoo",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "220",
+    "Name": "Swinub",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "109",
+    "Name": "Koffing",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "450",
+    "Name": "Hippowdon",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "660",
+    "Name": "Diggersby",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "109",
+    "Name": "Koffing",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "868",
+    "Name": "Milcery",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "109",
+    "Name": "Koffing",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "066",
+    "Name": "Machop",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "778",
+    "Name": "Mimikyu",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "834",
+    "Name": "Drednaw",
+    "Weather": "Fishing"
+},{
+    "Dex": "747",
+    "Name": "Mareanie",
+    "Weather": "Fishing"
+},{
+    "Dex": "170",
+    "Name": "Chinchou",
+    "Weather": "Fishing"
+},{
+    "Dex": "130",
+    "Name": "Gyarados",
+    "Weather": "Fishing"
+},{
+    "Dex": "677",
+    "Name": "Espurr",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "822",
+    "Name": "Corvisquire",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "832",
+    "Name": "Dubwool",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Overcast"
+},{
+    "Dex": "067",
+    "Name": "Machoke",
+    "Weather": "Overcast"
+},{
+    "Dex": "828",
+    "Name": "Thievul",
+    "Weather": "Overcast"
+},{
+    "Dex": "677",
+    "Name": "Espurr",
+    "Weather": "Overcast"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Overcast"
+},{
+    "Dex": "701",
+    "Name": "Hawlucha",
+    "Weather": "Overcast"
+},{
+    "Dex": "279",
+    "Name": "Pelipper",
+    "Weather": "Raining"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Raining"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Raining"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Raining"
+},{
+    "Dex": "588",
+    "Name": "Karrablast",
+    "Weather": "Raining"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "737",
+    "Name": "Charjabug",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "677",
+    "Name": "Espurr",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "037",
+    "Name": "Vulpix",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "677",
+    "Name": "Espurr",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "220",
+    "Name": "Swinub",
+    "Weather": "Snowing"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Snowing"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowing"
+},{
+    "Dex": "677",
+    "Name": "Espurr",
+    "Weather": "Snowing"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Snowing"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "582",
+    "Name": "Vanillite",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "679",
+    "Name": "Honedge",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "051",
+    "Name": "Dugtrio",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "557",
+    "Name": "Dwebble",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "529",
+    "Name": "Drilbur",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "677",
+    "Name": "Espurr",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "677",
+    "Name": "Espurr",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "856",
+    "Name": "Hatenna",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "686",
+    "Name": "Inkay",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "859",
+    "Name": "Impidimp",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "599",
+    "Name": "Klink",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "271",
+    "Name": "Lombre",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "434",
+    "Name": "Stunky",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Overcast"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Overcast"
+},{
+    "Dex": "517",
+    "Name": "Munna",
+    "Weather": "Overcast"
+},{
+    "Dex": "616",
+    "Name": "Shelmet",
+    "Weather": "Overcast"
+},{
+    "Dex": "536",
+    "Name": "Palpitoad",
+    "Weather": "Raining"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Raining"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Raining"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Raining"
+},{
+    "Dex": "595",
+    "Name": "Joltik",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "848",
+    "Name": "Toxel",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "422",
+    "Name": "Shellos",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "622",
+    "Name": "Golett",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "343",
+    "Name": "Baltoy",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "529",
+    "Name": "Drilbur",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "051",
+    "Name": "Dugtrio",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "459",
+    "Name": "Snover",
+    "Weather": "Snowing"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowing"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowing"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Snowing"
+},{
+    "Dex": "361",
+    "Name": "Snorunt",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "624",
+    "Name": "Pawniard",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "225",
+    "Name": "Delibird",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "622",
+    "Name": "Golett",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "529",
+    "Name": "Drilbur",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "749",
+    "Name": "Mudbray",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "517",
+    "Name": "Munna",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "825",
+    "Name": "Dottler",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "355",
+    "Name": "Duskull",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "830",
+    "Name": "Eldegoss",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "118",
+    "Name": "Goldeen",
+    "Weather": "Fishing"
+},{
+    "Dex": "098",
+    "Name": "Krabby",
+    "Weather": "Fishing"
+},{
+    "Dex": "341",
+    "Name": "Corphish",
+    "Weather": "Fishing"
+},{
+    "Dex": "130",
+    "Name": "Gyarados",
+    "Weather": "Fishing"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "862",
+    "Name": "Obstagoon",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "760",
+    "Name": "Bewear",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "826",
+    "Name": "Orbeetle",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "132",
+    "Name": "Ditto",
+    "Weather": "Normal Weather"
+},{
+    "Dex": "435",
+    "Name": "Skuntank",
+    "Weather": "Overcast"
+},{
+    "Dex": "861",
+    "Name": "Grimmsnarl",
+    "Weather": "Overcast"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Overcast"
+},{
+    "Dex": "675",
+    "Name": "Pangoro",
+    "Weather": "Overcast"
+},{
+    "Dex": "870",
+    "Name": "Falinks",
+    "Weather": "Overcast"
+},{
+    "Dex": "246",
+    "Name": "Larvitar",
+    "Weather": "Overcast"
+},{
+    "Dex": "885",
+    "Name": "Dreepy",
+    "Weather": "Overcast"
+},{
+    "Dex": "279",
+    "Name": "Pelipper",
+    "Weather": "Raining"
+},{
+    "Dex": "845",
+    "Name": "Cramorant",
+    "Weather": "Raining"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Raining"
+},{
+    "Dex": "195",
+    "Name": "Quagsire",
+    "Weather": "Raining"
+},{
+    "Dex": "689",
+    "Name": "Barbaracle",
+    "Weather": "Raining"
+},{
+    "Dex": "704",
+    "Name": "Goomy",
+    "Weather": "Raining"
+},{
+    "Dex": "836",
+    "Name": "Boltund",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "834",
+    "Name": "Drednaw",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "593",
+    "Name": "Jellicent",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "780",
+    "Name": "Drampa",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "705",
+    "Name": "Sliggoo",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "885",
+    "Name": "Dreepy",
+    "Weather": "Thunderstorm"
+},{
+    "Dex": "112",
+    "Name": "Rhydon",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "839",
+    "Name": "Coalossal",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "844",
+    "Name": "Sandaconda",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "246",
+    "Name": "Larvitar",
+    "Weather": "Intense Sun"
+},{
+    "Dex": "872",
+    "Name": "Snom",
+    "Weather": "Snowing"
+},{
+    "Dex": "221",
+    "Name": "Piloswine",
+    "Weather": "Snowing"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Snowing"
+},{
+    "Dex": "122",
+    "Name": "Mr.Mime",
+    "Weather": "Snowing"
+},{
+    "Dex": "875",
+    "Name": "Eiscue",
+    "Weather": "Snowing"
+},{
+    "Dex": "863",
+    "Name": "Perrserker",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "680",
+    "Name": "Doublade",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "777",
+    "Name": "Togedemaru",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "875",
+    "Name": "Eiscue",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "884",
+    "Name": "Duraludon",
+    "Weather": "Snowstorm"
+},{
+    "Dex": "051",
+    "Name": "Dugtrio",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "450",
+    "Name": "Hippowdon",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "862",
+    "Name": "Obstagoon",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "247",
+    "Name": "Pupitar",
+    "Weather": "Sandstorm"
+},{
+    "Dex": "344",
+    "Name": "Claydol",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "437",
+    "Name": "Bronzong",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "876",
+    "Name": "Indeedee",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "885",
+    "Name": "Dreepy",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "282",
+    "Name": "Gardevoir",
+    "Weather": "Heavy Fog"
+},{
+    "Dex": "820",
+    "Name": "Greedent",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "420",
+    "Name": "Cherubi",
+    "Weather": "Shaking Trees"
+},{
+    "Dex": "847",
+    "Name": "Barraskewda",
+    "Weather": "Fishing"
+},{
+    "Dex": "171",
+    "Name": "Lanturn",
+    "Weather": "Fishing"
+},{
+    "Dex": "211",
+    "Name": "Qwilfish",
+    "Weather": "Fishing"
+},{
+    "Dex": "130",
+    "Name": "Gyarados",
+    "Weather": "Fishing"
+},{
+    "Dex": "829",
+    "Name": "Gossifleur",
+    "Weather": "All Weather"
+},{
+    "Dex": "509",
+    "Name": "Purrloin",
+    "Weather": "All Weather"
+},{
+    "Dex": "270",
+    "Name": "Lotad",
+    "Weather": "All Weather"
+},{
+    "Dex": "824",
+    "Name": "Blipbug",
+    "Weather": "All Weather"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "All Weather"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "833",
+    "Name": "Chewtle",
+    "Weather": "Fishing"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+},{
+    "Dex": "349",
+    "Name": "Feebas",
+    "Weather": "Fishing"
+},{
+    "Dex": "583",
+    "Name": "Vanillish",
+    "Weather": "All Weather"
+},{
+    "Dex": "460",
+    "Name": "Abomasnow",
+    "Weather": "All Weather"
+},{
+    "Dex": "614",
+    "Name": "Beartic",
+    "Weather": "All Weather"
+},{
+    "Dex": "872",
+    "Name": "Snom",
+    "Weather": "All Weather"
+},{
+    "Dex": "583",
+    "Name": "Vanillish",
+    "Weather": "All Weather"
+},{
+    "Dex": "875",
+    "Name": "Eiscue",
+    "Weather": "All Weather"
+},{
+    "Dex": "110",
+    "Name": "Weezing",
+    "Weather": "All Weather"
+},{
+    "Dex": "517",
+    "Name": "Munna",
+    "Weather": "All Weather"
+},{
+    "Dex": "823",
+    "Name": "Corviknight",
+    "Weather": "All Weather"
+},{
+    "Dex": "826",
+    "Name": "Orbeetle",
+    "Weather": "All Weather"
+},{
+    "Dex": "012",
+    "Name": "Butterfree",
+    "Weather": "All Weather"
+},{
+    "Dex": "618",
+    "Name": "Stunfisk",
+    "Weather": "All Weather"
+},{
+    "Dex": "340",
+    "Name": "Whiscash",
+    "Weather": "Fishing"
+},{
+    "Dex": "339",
+    "Name": "Barboach",
+    "Weather": "Fishing"
+},{
+    "Dex": "129",
+    "Name": "Magikarp",
+    "Weather": "Fishing"
+}
+]
